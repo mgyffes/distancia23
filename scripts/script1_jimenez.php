@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Esto es un ejemplo de documentación de PHP
+ * Esto es un ejemplo de documentación de PHP con una modificación
  * 
  * @author Moisés
- * @version 1.0.2
+ * @version 1.0.3
  *
  */
 

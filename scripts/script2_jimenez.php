@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Esta clase implementa una calculadora con dos métodos, multiplicar y dividir
+ * Esta clase implementa una calculadora con dos métodos, multiplicar y dividir. Modificación
  * @author Moises
- * @version 1.0.2
+ * @version 1.0.3
  */
 class Calculadora
 {
